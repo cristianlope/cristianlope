@@ -1,0 +1,14 @@
+/*
+Blanco: #FFFFFF
+Negro azul: #00171F
+Azul oscuro: #003459
+Celeste Napoli: #007EA7
+Celeste: #00A8E8
+*/
+
+.container{
+    background:#00171F;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #6dd5ed, #2193b0);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #6dd5ed, #2193b0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
